@@ -17,7 +17,7 @@
     background: #000;
 }
 
-.key-1 p {
+.key-1 {
     color: darkblue;
 }
 
@@ -25,7 +25,7 @@
     background-color: darkblue;
 }
 
-.key-2 p {
+.key-2 {
     color: blue;
 }
 
@@ -33,7 +33,7 @@
     background-color: blue;
 }
 
-.key-3 p {
+.key-3 {
     color: dodgerblue;
 }
 
@@ -41,7 +41,7 @@
     background-color: dodgerblue;
 }
 
-.key-4 p {
+.key-4 {
     color: lightskyblue;
 }
 
